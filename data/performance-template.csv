@@ -1,0 +1,4 @@
+timestamp,test_name,metric,value,units,notes
+2025-11-20T12:00:00Z,baseline_idle,cpu_util,3,percent,idle system baseline
+2025-11-20T12:00:00Z,baseline_idle,mem_used,512,MiB,after boot services
+2025-11-20T12:00:00Z,baseline_idle,root_usage,12,percent,df -P /
